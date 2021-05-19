@@ -1,0 +1,4 @@
+*.deb
+man/
+po/
+gtkman.desktop
